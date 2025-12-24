@@ -24,7 +24,7 @@ Unlike basic "multi-instance" scripts, Multiblox acts as a Supervisor, monitorin
 ⚙️ Requirements
 OS: Windows 10/11 (64-bit)
 
-Runtime: .NET 8.0 (Included in the single-file executable, no install required).
+Runtime: .NET 10.0 (Included in the single-file executable, no install required).
 
 Hardware (Recommended for 30+ instances):
 
